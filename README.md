@@ -247,7 +247,8 @@ footer {
 ## OUTPUT
 
 ![Screenshot 2025-03-16 185841](https://github.com/user-attachments/assets/3a841547-d835-4748-aeb3-c20af006421d)
-![Screenshot 2025-03-16 185854](https://github.com/user-attachments/assets/1b16f412-bed4-401c-a76f-68364f39d025)
+![image](https://github.com/user-attachments/assets/35fa52d7-ab53-44e5-8f09-7abcbbe69259)
+
 
 
 
